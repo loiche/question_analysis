@@ -1,7 +1,7 @@
 .DS_Store
 data/usr_file
 docs
-notebook
+tmp_notebook
 
 ### https://raw.github.com/github/gitignore/e2e54ce6be90a3ca9c1da57031dc70bf62ed7921/Python.gitignore
 

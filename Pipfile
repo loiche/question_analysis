@@ -1,0 +1,36 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+pandas = "*"
+jupyter = "*"
+jupyterlab = "*"
+tqdm = "*"
+matplotlib = "*"
+scikit-learn = "*"
+scipy = "*"
+seaborn = "*"
+plotly = "*"
+networkx = "*"
+mojimoji = "*"
+mecab-python3 = "*"
+neologdn = "*"
+nbconvert = "*"
+python-dotenv = "*"
+asari = "*"
+oseti = "*"
+pymlask = "*"
+wordcloud = "*"
+ipython = "*"
+gensim = "*"
+streamlit-aggrid = "==0.2.3"
+jaconv = "*"
+streamlit = "==1.12.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
